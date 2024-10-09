@@ -39,3 +39,6 @@ Let's get started!
 Once you complete this exercise, you’ll have learned the basic Git workflow. These skills will help you work effectively with version control and collaborate with your team in a Git-based environment. 
 
 Good luck, and have fun!
+
+Update by Azizah
+
